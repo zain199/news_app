@@ -1,7 +1,7 @@
 # new_app
 
-### A new Flutter application For news sports , busines , scientific.
-
+### For people that interest in sports, general, scientific new created with
+### Bloc stage-management – dio - shared_preferences - bloc pattern
 ## Getting Started
 
 This project is a starting point for a Flutter application.
